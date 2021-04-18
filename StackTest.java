@@ -4,8 +4,13 @@
  * stack, the element at index n - 1
  */
 
-public class Stack {
+import java.util.*;
+
+public class StackTest {
 	public static void main(String[] args) {
-		System.out.println("hello!");
+
+		Stack s = new Stack();
+		s.push(4);
+		System.out.println(s);
 	}
 }
