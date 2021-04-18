@@ -14,4 +14,4 @@ Write a queue operation Front (Q) using pseudo-code conventions. The Front opera
 
 ## Exercise four (challenge)
 
-Write the ENQUEUE and DEQUEUE algorithms using pseudo-code conventions to detect underflow and overflow of a queue.#
+Write the ENQUEUE and DEQUEUE algorithms using pseudo-code conventions to detect underflow and overflow of a queue.
