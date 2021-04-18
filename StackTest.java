@@ -11,6 +11,8 @@ public class StackTest {
 
 		Stack s = new Stack();
 		s.push(4);
+		s.push(1);
+		s.push(3);
 		System.out.println(s);
 	}
 }
